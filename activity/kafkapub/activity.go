@@ -11,7 +11,7 @@ import (
 
 	"sync"
 
-	"github.com/Shopify/sarama"
+	"github.com/Shopify/sarama/v1.23.0"
 	"github.com/TIBCOSoftware/flogo-lib/core/activity"
 	"github.com/TIBCOSoftware/flogo-lib/logger"
 )
